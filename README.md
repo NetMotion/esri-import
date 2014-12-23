@@ -1,8 +1,9 @@
 # convert_netmo_csv_to_esri_shapefile.py
 ## Overview
 This utility converts exported coverage data from NetMotion Wireless' Locality product into an Esri shapefile for importing into Esri products.  General usage steps:
-1. Place one or more Coverage Data Export CSV files from a Locality server into a directory on the machine from which you will run this utility.
-2. Run this utlity, specifying the directory above and a path for the output shapefile.
+
+1. Place one or more Coverage Data Export CSV files from a Locality server into a directory on the machine from which you will run this utility
+2. Run this utlity, specifying the directory above and a path for the output shapefile
 3. Import the resultant shapefile into your Esri document
 
 ## About Each Step
